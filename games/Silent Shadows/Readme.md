@@ -2,7 +2,6 @@
 
 <img width="500" height="500" alt="DALL·E 2025-10-30 13 35 03 - Create a super minimalistic pixel art style video game poster for a stealth indie game titled &#39;Silent Shadows&#39;  Use a dark background and bold white p" src="https://github.com/user-attachments/assets/4a1f1a90-65bd-4a65-9b69-f953bd6b6ed5" />
 
-
 **Silent Shadows** is a minimalist indie stealth game prototype inspired by *CounterSpy* and mid-century **Saul Bass–style** poster design.  
 The game emphasizes silhouettes, restraint, and intentional movement — where **standing still can be safer than moving**.
 
