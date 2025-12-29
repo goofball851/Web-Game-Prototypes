@@ -1,0 +1,5 @@
+{
+  "name": "Trigger Happy",
+  "description": "A high-speed arcade FPS runner where you must shoot obstacles to survive. Features auto-lock mechanics, procedural runs, and dynamic visual style swapping.",
+  "requestFramePermissions": []
+}
