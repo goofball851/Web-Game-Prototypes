@@ -6,7 +6,7 @@
 ![Engine](https://img.shields.io/badge/Engine-Custom_Canvas_2D-blue)
 ![AI](https://img.shields.io/badge/AI-Gemini_3_Flash-orange)
 
-**Silent Shadows: Obsidian Protocol** is a high-fidelity stealth side-scrolling prototype built with React and a custom 2D physics engine. Players take on the role of an elite infiltrator tasked with retrieving a high-value data core from a heavily fortified facility in Zurich.
+**Silent Shadows** is a high-fidelity stealth side-scrolling prototype built with React and a custom 2D physics engine. A high-fidelity stealth side-scrolling prototype featuring dynamic lighting, AI detection mechanics, and a gritty noir aesthetic. Use decoys and shadows to infiltrate the facility.
 
 ## 🌃 Visual Aesthetic
 
@@ -62,7 +62,7 @@ The facility is divided into multiple sectors separated by **Structural Barriers
 
 ---
 
-*Developed by a Senior Frontend Engineer with a focus on high-performance Canvas rendering and immersive UX.*
+*Developed by an AI Senior Frontend Engineer with a focus on high-performance Canvas rendering and immersive UX.*
 
 ## 📄 License
 
