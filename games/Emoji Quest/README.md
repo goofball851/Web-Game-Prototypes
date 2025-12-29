@@ -46,4 +46,4 @@ A charming, hand-drawn 2D side-scrolling platformer built with React, TypeScript
 - `index.html`: Main entry point with font imports and Tailwind setup.
 
 ---
-*Created with passion for the art of the sketchbook.*
+*Created with passion for the art of the sketchbook and Google Ai Studio*
