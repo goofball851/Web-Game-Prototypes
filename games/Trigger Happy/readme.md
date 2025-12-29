@@ -1,10 +1,12 @@
 # 🔫 TRIGGER HAPPY: Hyper-Rush
 
+<img width="500" height="500" alt="0ccd4a80-f5b8-4f76-b96e-c7a026278a17" src="https://github.com/user-attachments/assets/1423d7eb-260a-4693-9a80-1541524d98f4" />
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-19-blue.svg)](https://reactjs.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-r182-black.svg)](https://threejs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC.svg)](https://tailwindcss.com/)
-[![Gemini AI](https://img.shields.io/badge/Google_Gemini-AI_Powered-purple.svg)](https://ai.google.dev/)
+![AI](https://img.shields.io/badge/AI-Powered%20by%20Gemini-purple)
 
 **Trigger Happy: Hyper-Rush** is a chaotic, fast-paced arcade FPS runner built for the web. Trapped in a broken testing wing designed to train security AI, you must navigate high-speed corridors, auto-locking onto obstacles and shattering them before they end your run.
 
