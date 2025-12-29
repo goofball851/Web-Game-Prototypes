@@ -2,7 +2,8 @@
 
 This folder contains small game prototypes used for demos and experimentation.
 
-<img width="250" height="250" alt="Gemini_Generated_Image_50arcv50arcv50ar" src="https://github.com/user-attachments/assets/24d849bd-2032-4c0e-a93c-b0393a431024" />
+<img width="250" height="250" alt="Gemini_Generated_Image_ylgzr6ylgzr6ylgz" src="https://github.com/user-attachments/assets/4de013af-30bc-4813-9af8-5250b091ab4c" />
+
 
 ## Item Swap game
 A canvas-based item-collection / delivery prototype. Item Finder Game
