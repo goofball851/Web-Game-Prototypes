@@ -2,6 +2,11 @@
 
 <img width="500" height="500" alt="Gemini_Generated_Image_ylgzr6ylgzr6ylgz" src="https://github.com/user-attachments/assets/4caba98e-e408-4c1a-81be-58f3c5d34425" />
 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Engine](https://img.shields.io/badge/Engine-React%20%2B%20Canvas-blue)
+![AI](https://img.shields.io/badge/AI-Powered%20by%20Gemini-orange)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A charming, hand-drawn 2D side-scrolling platformer built with React, TypeScript, and the HTML5 Canvas API. Navigate a living sketchbook, collect magical items, and deliver them to their rightful places.
 
 ## 🌟 Features
