@@ -1,94 +1,49 @@
-# Item Swap Adventure 🧩🎮
+# 🧩🎮 Emoji Quest: Sketchbook Edition 
 
 <img width="500" height="500" alt="Gemini_Generated_Image_ylgzr6ylgzr6ylgz" src="https://github.com/user-attachments/assets/4caba98e-e408-4c1a-81be-58f3c5d34425" />
 
-**Item Swap Adventure** is a lightweight, browser-based 2D platformer built with **React, TypeScript, and the HTML5 Canvas API**.  
-The game focuses on **item swapping, delivery goals, and simple platforming**, all without using a traditional game engine.
+A charming, hand-drawn 2D side-scrolling platformer built with React, TypeScript, and the HTML5 Canvas API. Navigate a living sketchbook, collect magical items, and deliver them to their rightful places.
 
-This project is designed to be:
-- Easy to understand
-- Fun to extend
-- Perfect as a mini-game, prototype, or web experiment
+## 🌟 Features
 
----
-
-## ✨ Gameplay Overview
-
-- Move through a long, side-scrolling level
-- Pick up items scattered across platforms
-- Deliver the **correct item** to each goal
-- You can only carry **one item at a time**
-- Picking up a new item drops the current one
-- Complete all goals to win
-
----
+- **Unique Sketchbook Aesthetic**: The entire game is rendered on a parchment-style background with custom "rough line" algorithms that simulate real hand-drawn sketches.
+- **"Boiling" Animation**: Lines subtly shift and vibrate during gameplay (a technique known as "line boil") to give the sketchbook a living, animated feel.
+- **Parallax Background**: Hand-drawn clouds float with subtle movement and parallax scrolling, providing depth to the 2D world.
+- **Fluid Platforming**: Tight controls with gravity, friction, and "squash and stretch" animations for the player character.
+- **Item Management**: Find, pick up, and swap various emoji-themed items (Keys, Potions, Gems, etc.) to complete specific goals scattered across the level.
+- **Dynamic Camera**: A smooth camera system that follows the player across a large, scrolling world.
 
 ## 🎮 Controls
 
 | Key | Action |
-|----|-------|
-| **A / D** | Move left / right |
-| **Space** | Jump |
-| **E** | Pick up, drop, or deliver item |
+|-----|--------|
+| **W / Space / Up** | Jump |
+| **A / Left** | Move Left |
+| **D / Right** | Move Right |
+| **E** | Interact (Pick up / Drop / Deliver) |
+
+## 🕹️ How to Play
+
+1. **Explore**: Navigate the platforms to find floating emoji items.
+2. **Collect**: Stand near an item and press **E** to pick it up. You can carry one item at a time.
+3. **Match**: Locate the sketchy squares (goals) that display the same emoji as the item you are holding.
+4. **Deliver**: Stand inside the goal and press **E** to deliver the item and earn points.
+5. **Win**: Deliver all required items to complete the "sketch" and win the game!
+
+## 🛠️ Technical Details
+
+- **React & TypeScript**: Powers the game state, UI overlays, and component structure.
+- **Canvas API**: Used for the entire game world rendering.
+- **Custom Sketch Engine**: Implements a `drawRoughLine` function that uses sine-wave offsets and segments to create a "wobbly" hand-drawn look for all geometric shapes.
+- **Tailwind CSS**: Handles the layout and styling for the game's outer shell and menus.
+- **Responsive Logic**: Includes window-resize handling and camera clamping for a smooth widescreen experience.
+
+## 📂 Project Structure
+
+- `App.tsx`: Main game loop, rendering logic, and input handling.
+- `constants.ts`: World dimensions, physics values, and level layout definitions.
+- `types.ts`: TypeScript interfaces for game entities (Player, Item, Goal, Platform).
+- `index.html`: Main entry point with font imports and Tailwind setup.
 
 ---
-
-## 🧠 Core Mechanics
-
-### Item System
-- Items are randomly generated
-- Each item has:
-  - Type
-  - Color
-  - Emoji icon
-  - Point value
-- Items pulse visually to draw attention
-
-### Goals
-- Each goal requires a **specific item type**
-- Delivering the correct item:
-  - Awards points
-  - Marks the goal as complete
-  - Spawns a new random item
-- Delivering the wrong item shows feedback
-
-### Player Rules
-- Only **one item can be held at a time**
-- Picking up a new item automatically drops the old one
-- Items float above the player when held
-
----
-
-## 🧱 Technical Details
-
-- Built with **React Functional Components**
-- Written in **TypeScript**
-- Uses:
-  - `useRef` for mutable game state
-  - `useEffect` for lifecycle control
-  - `requestAnimationFrame` for the game loop
-- Rendering handled entirely via **Canvas 2D API**
-- No external game engine required
-
----
-
-## 🎨 Visual Style
-
-- Flat, arcade-style graphics
-- Simple shapes and bright colors
-- Emoji-based item icons
-- Floating prompts and UI hints
-- Side-scrolling camera that follows the player
-
----
-
-## 🧪 Game States
-
-- **Menu** – Start screen with instructions
-- **Playing** – Active gameplay
-- **Win** – Victory screen after all goals are completed
-
----
-
-## 📦 Project Structure
-
+*Created with passion for the art of the sketchbook.*
