@@ -6,7 +6,7 @@
 ![Engine](https://img.shields.io/badge/Engine-Custom_Canvas_2D-blue)
 ![AI](https://img.shields.io/badge/AI-Gemini_3_Flash-orange)
 
-**Silent Shadows** is a high-fidelity stealth side-scrolling prototype built with React and a custom 2D physics engine. A high-fidelity stealth side-scrolling prototype featuring dynamic lighting, AI detection mechanics, and a gritty noir aesthetic. Use decoys and shadows to infiltrate the facility.
+**Silent Shadows: Obsidian Protocol** is a high-fidelity stealth side-scrolling prototype built with React and a custom 2D physics engine. Players take on the role of an elite infiltrator tasked with retrieving a high-value data core from a heavily fortified facility in Zurich.
 
 ## 🌃 Visual Aesthetic
 
@@ -59,8 +59,6 @@ The facility is divided into multiple sectors separated by **Structural Barriers
 1. **Environment:** Ensure your `process.env.API_KEY` is configured with a valid Google Gemini API key.
 2. **Installation:** Standard `npm install` for dependencies.
 3. **Execution:** Runs via a modern ESM module loader as defined in the project root.
-
----
 
 *Developed by an AI Senior Frontend Engineer with a focus on high-performance Canvas rendering and immersive UX.*
 
